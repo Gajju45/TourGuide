@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Tourist Guide App</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Paces Name
+    <string name="place_1">Palace</string>
+    <string name="place_2">Hotel</string>
+    <string name="place_3">Best City </string>
+    <string name="place_4">Temple</string>
+
+
+    //Place
+    <string name="aamerfort">Aamer Fort</string>
+    <string name="agrafort">Agra Fort</string>
+    <string name="elloracaves">Elloracavesr</string>
+    <string name="gatwayofindia">Gatway Of India</string>
+    <string name="indiagate">India Gate</string>
+
+    //Place
+    <string name="aamerfortDetail">Amer is named for its 16th-century fort, a dramatic hilltop stronghold overlooking Jaipur. Often called the Amber Palace, the fort features a hall with intricate mirror mosaics and a Ganesh icon carved from coral. Nearby landmarks include the geometric Panna Meena ka Kund stepwell and Jagat Shiromani, a Hindu temple with a striking statue of goddess Kali. The Anokhi Museum showcases woodblock printing.</string>
+    <string name="agrafortDetail">Agra Fort is a historical fort in the city of Agra in India. It was the main residence of the emperors of the Mughal Dynasty until 1638, when the capital was shifted from Agra to Delhi. Before capture by the British, the last Indian rulers to have occupied it were the Marathas. In 1983, the Agra fort was inscribed as a UNESCO World Heritage site.[1] It is about 2.5 km northwest of its more famous sister monument, the Taj Mahal. The fort can be more accurately described as a walled city.</string>
+    <string name="elloracavesDetail">Ellora is a UNESCO World Heritage Site located in the Aurangabad district of Maharashtra, India. It is one of the largest rock-cut monastery-temple cave complexes in the world, featuring Hindu, Buddhist and Jain monuments, and artwork, dating from the 600–1000 CE period.</string>
+    <string name="gatwayofindiaDetail">The Gateway of India is an arch-monument built in the early twentieth century in the city of Mumbai, in the Indian state of Maharashtra. It was erected to commemorate the landing in December 1911 at Apollo Bunder, Mumbai of King-Emperor George V and Queen-Empress Mary, the first British monarch to visit India.</string>
+    <string name="indiagateDetail">The India Gate is a war memorial located astride the Rajpath, on the eastern edge of the "ceremonial axis" of New Delhi, formerly called Kingsway</string>
+
+
+    //Hotel
+    <string name="Hotel_1">Marriott Hotel</string>
+    <string name="Hotel_2">Sofitel Hotel</string>
+    <string name="Hotel_3">Suryagarh Hotel</string>
+    <string name="Hotel_4">Munnar  Hotel</string>
+    <string name="Hotel_5">Leela Place Hotel</string>
+
+    //Hotel Details
+    <string name="Hotel_detail_1">Marriott International, Inc. is an American multinational diversified hospitality company that manages and franchises a broad portfolio of hotels and related lodging facilities</string>
+    <string name="Hotel_detail_2">In 1975, Novotel-SIEH acquired the restaurant brand Courtepaille and the Mercure hotels. In 1980, Accor acquired the Sofitel hotels (43 hotels)</string>
+    <string name="Hotel_detail_3">et in a grand palace with an ornate sandstone exterior, this opulent hotel is 7 km from the abandoned village of Kuldhara and 15 km from Bara Bagh Temple. …</string>
+    <string name="Hotel_detail_4">Best 123 hotels in Munnar on MakeMyTrip Choose from 123 best available Munnar hotels and save up to 80% on Munnar Hotel booking online</string>
+    <string name="Hotel_detail_5">The Leela Palaces, Hotels and Resorts, commonly known as The Leela, is an Indian luxury hotel chain, founded in 1986 by C. P. Krishnan Nair, and owned by Brookfield Asset Management. Currently, The Leela is a group of eight luxury palaces and hotels.</string>
+
+    //Temple
+    <string name="Temple_1">BadriNath</string>
+    <string name="Temple_2">Dilwara</string>
+    <string name="Temple_3">Golden Temple</string>
+    <string name="Temple_4">Govind Dev Ji</string>
+    <string name="Temple_5">Jagnnath </string>
+
+
+    <string name="Temple_1_Detail">Badrinath is a holy town and a nagar panchayat in Chamoli district in the state of Uttarakhand, India. It is one of the four sites in India s Char Dham pilgrimage and gets its name from the temple of Badrinath.</string>
+    <string name="Temple_2_Detail">The Dilwara Temples or Delvada Temples are located about ​2 ¹⁄₂ kilometres from the Mount Abu settlement, Rajasthans only hill station.</string>
+    <string name="Temple_3_Detail">The Darbār Sahib, meaning "exalted court" or Harmandir Sahib, meaning "abode of God", also known as Golden Temple, is a Gurdwara located in the city of Amritsar, Punjab, India. It is the preeminent spiritual site of Sikhism.</string>
+    <string name="Temple_4_Detail">The Vaishnava temple Govind Dev Ji is situated in Jaipur district in Rajasthan state of India. It is located in the City Palace complex. Murti is easily visible from City Palace.</string>
+    <string name="Temple_5_Detail">The Shree Jagannath Temple of Puri is an important Hindu temple dedicated to Jagannath, a form of Vishnu, in Puri in the state of Odisha on the eastern coast of India. The original temple was built by king Indradyumna in Satya Yuga. </string>
+
+    //Mumbai Places Name
+    <string name="best_city_1">Rajasthan</string>
+    <string name="best_city_2">Bengaluru</string>
+    <string name="best_city_3">Chennai</string>
+    <string name="best_city_4">Mumbai</string>
+    <string name="best_city_5">Hyderabad</string>
+
+
+
+    //Mumbai Places Details
+    <string name="best_city_1_detail">Rajasthan is a state in northern India. The state covers an area of 342,239 square kilometres or 10.4 percent of the total geographical area of India. It is the largest Indian state by area and the seventh largest by population.</string>
+    <string name="best_city_2_detail">Bengaluru (also called Bangalore) is the capital of India s southern Karnataka state. The center of India s high-tech industry, the city is also known for its parks and nightlife. By Cubbon Park, Vidhana Soudha is a Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after England’s Windsor Castle, and Tipu Sultan’s Summer Palace, an 18th-century teak structure.</string>
+    <string name="best_city_3_detail">Chennai, on the Bay of Bengal in eastern India, is the capital of the state of Tamil Nadu. The city is home to Fort St. George, built in 1644 and now a museum showcasing the city’s roots as a British military garrison and East India Company trading outpost, when it was called Madras. Religious sites include Kapaleeshwarar Temple, adorned with carved and painted gods, and St. Mary’s, a 17th-century Anglican church.</string>
+    <string name="best_city_4_detail">Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it s India s largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city s also famous as the heart of the Bollywood film industry.</string>
+    <string name="best_city_5_detail">Hyderabad is the capital of southern India s Telangana state. A major center for the technology industry, it s home to many upscale restaurants and shops. Its historic sites include Golconda Fort, a former diamond-trading center that was once the Qutb Shahi dynastic capital. The Charminar, a 16th-century mosque whose 4 arches support towering minarets, is an old city landmark near the long-standing Laad Bazaar.</string>
+
+</resources>
